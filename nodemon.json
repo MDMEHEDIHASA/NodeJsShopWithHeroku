@@ -1,0 +1,8 @@
+{
+    "env":{
+        "Mongo_User":"hasan",
+        "Mongo_password":"4545fuck",
+        "Mongo_DB":"shop2",
+        "Stripe_Key":"sk_test_51HhGcuIcgvz2PzTpdrjL2UTP8JBGIMdU929wrwYFukFdoGbofGqWnVo4QZgpWstbaCzxRED8jZPkGCk7CNfVMI5M00uKUJrf5o"
+    }
+}
