@@ -230,7 +230,7 @@ exports.postReset = (req,res,next)=>{
                     text:'Thank you for Sign Up. Keep in touch with us.',
                     html:`
                     <p> You have requested for change password</p>
-                    <p>click this  <a href="http://localhost:3000/reset/${token}"> link </a> to reset password.</p>
+                    <p>click this  <a href="https://fully-worked-shop-ecommerce.herokuapp.com/reset/${token}"> link </a> to reset password.</p>
                     
                     `
                 });
